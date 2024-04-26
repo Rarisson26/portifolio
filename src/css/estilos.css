@@ -128,19 +128,20 @@ body{
     text-transform: uppercase;
 }
 
-.projetos .container-projetos{
+.projetos .container-projetos{     
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
     margin-bottom: 20px;
     justify-content: center;
+    
 }
 
-.projetos .projeto{
+.projetos .projeto{         
     max-width: 260px;
     max-height: 500px;
     position: relative;
-    display: none;
+    display: none;    
 }
 
 .projetos .projeto.ativo{
@@ -149,6 +150,7 @@ body{
 
 .projetos .projeto img{
     height: 100%;
+    
 }
 
 .projetos .projeto h3{
