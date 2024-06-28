@@ -11,7 +11,7 @@
 body {
     padding:0px;
     margin:0px;
-    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("./images/wallpapersden.com_astronaut-.jpg") center center;
+    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("./images/parede-de-programacao.jpg") center center;
     background-size:cover;
     width:100vw;
     height:100vh;
@@ -55,10 +55,10 @@ body {
     display:inline-block;
 }
 .box1 {
-    background:rgb(59, 119, 67);
+    background:rgba(125, 138, 127, 0.76);
 }
 .box2 {
-    background:rgb(59, 119, 67);
+    background:rgba(125, 138, 127, 0.76);
     margin-left:-5px;
 }
 #menu {
@@ -145,15 +145,15 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #about:hover {
-    background:rgb(146, 209, 170);
+    background:rgba(125, 138, 127, 0.76);
     cursor:pointer;
 }
 #work:hover {
-    background:rgb(146, 209, 170);
+    background:rgba(125, 138, 127, 0.76);
     cursor:pointer;
 }
 #contact:hover {
-    background:rgb(146, 209, 170);
+    background:rgba(125, 138, 127, 0.76);
     cursor:pointer;
 }
 #middle table {
@@ -244,7 +244,7 @@ body {
 }
 .btn_one:hover {
     cursor:pointer;
-    color:#042c18;
+    color:rgba(134, 192, 189, 0.76);
     background:#fff;
     padding:8px 50px;
     transition:0.4s ease-in-out;
@@ -252,7 +252,7 @@ body {
 .btn_two {
     font-size:18px;
     font-family: 'Josefin Sans', sans-serif;
-    color:#042c18;
+    color:rgba(134, 192, 189, 0.76);
     background:#fff;
     border:3px solid #fff;
     padding:8px 40px;
@@ -314,7 +314,7 @@ body {
     font-weight:bold;
 }
 #footer a {
-    color: rgb(70, 161, 105) ;
+    color: rgba(125, 138, 127, 0.76) ;
 }
 #particles-js {
     position:fixed;
@@ -329,14 +329,14 @@ body {
     background: #fff; 
 }
 ::-webkit-scrollbar-thumb {
-    background: rgba(74, 192, 123, 0.815); 
+    background: rgba(125, 138, 127, 0.76); 
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(74, 192, 123, 0.815); 
+    background: rgba(125, 138, 127, 0.76); 
 }
 ::selection {
 	color: #fff;
-	background: rgba(74, 192, 123, 0.815);
+	background: rgba(125, 138, 127, 0.76);
 }
 
 @media (max-width: 800px){ 
@@ -478,7 +478,7 @@ body {
 .btn_cv {
     font-size:20px;
     font-family: 'Josefin Sans', sans-serif;
-    color:#24af81;
+    color:rgba(125, 138, 127, 0.76);
     background:#fff;
     border: 3px dotted #fff;
     padding: 8px 35px;
@@ -491,7 +491,7 @@ body {
 .btn_cv:hover {
     cursor:pointer;
     color: #fff;
-    background-color: #24af81;
+    background-color: rgba(125, 138, 127, 0.76);
     font-size: 22px;
     font-weight:bold;
 }
@@ -509,7 +509,7 @@ body {
     border-radius: 80%;
     width: 200px;
     height: 200px;
-    box-shadow: 2px 2px 6px #24af81;
+    box-shadow: 2px 2px 6px rgba(125, 138, 127, 0.76);
 }
 .aboutme .perfil {
     display: flex;
@@ -599,7 +599,7 @@ body {
     transition:0.5s step-end;
     font-weight:bold;
     font-size: 60px;
-    color:rgb(95, 202, 175);
+    color:rgba(125, 138, 127, 0.76);
 }
 .projeto_img {
     display: flex;
